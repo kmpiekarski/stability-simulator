@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { HttpClientModule } from '@angular/common/http'
+import { AgGridModule } from 'ag-grid-angular';
 import { AppComponent } from './app.component';
 import { StoreModule } from '@ngrx/store';
 
@@ -10,6 +11,8 @@ import { StoreModule } from '@ngrx/store';
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
+    AgGridModule,
     StoreModule.forRoot({}, {})
   ],
   providers: [],
