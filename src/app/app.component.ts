@@ -1,10 +1,13 @@
 import { Component } from '@angular/core';
 import { Store } from '@ngrx/store';
 import { ColDef, GridReadyEvent, GridOptions } from 'ag-grid-community';
-import { Observable } from 'rxjs';
-import { requestToGetStocks, getStockData } from './stock.actions';
-import { Stock } from './stock.model';
-// import { StockService } from './stock.service';
+import { selectStockCollection, selectStocks } from './state/stocks.selectors';
+import {
+  retrievedStockList,
+  addStock,
+  removeStock,
+} from './state/stock.actions';
+import { StocksService } from './stock-list/stocks.service';
 
 @Component({
   // component metadata
@@ -15,6 +18,9 @@ import { Stock } from './stock.model';
 })
 
 export class AppComponent {
+
+  stocks$ = this.store.select(selectStocks);
+  stockCollection$ = this.store.select(selectStockCollection);
 
   public colDefs: ColDef[] = [
     { field: 'id' }, 
@@ -30,7 +36,10 @@ export class AppComponent {
 
   public gridOptions: GridOptions;
 
-  constructor(private store: Store) {
+  constructor(
+    private stocksService: StocksService,
+    private store: Store
+    ) {
     this.gridOptions = <GridOptions>{
       rowData: this.createRowData(),
       columnDefs: this.createColumnDefs(),
@@ -48,27 +57,14 @@ export class AppComponent {
     ];
 }
 
-private createRowData() {
-  return [
-    { id: "631c0603efa47fddaaffb9a4", priceHigh: "$1,937.04", priceLow: "$980.68" },
-    { id: "631c060317dc313ac672a8d9", priceHigh: "$1,715.12", priceLow: "$905.16" },
-    { id: "631c060387736aab68db8c87", priceHigh: "$1,363.11", priceLow: "$178.83" },
-    { id: "631c060323ccb028ac614324", priceHigh: "$1,354.27", priceLow: "$457.10" },
-    { id: "631c0603be36245839098cb8", priceHigh: "$1,657.68", priceLow: "$668.40" }
-  ];
-}
-
-  // private createRowData() {
-  //   return this.store.dispatch(requestToGetStocks())
-  // }
-
-
-  // onGridReady(params: GridReadyEvent) {
-  //   // this.store.dispatch(getStockData())
-  // }
+  private createRowData() {
+  
+  }
 
   ngOnInit() {
-    this.store.dispatch(requestToGetStocks())
+    this.stocksService
+      .getStocks()
+      .subscribe((stocks) => this.store.dispatch(retrievedStockList({ stocks })));
   }
 
 }

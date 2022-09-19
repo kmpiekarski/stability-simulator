@@ -5,7 +5,9 @@ import { AgGridModule } from 'ag-grid-angular';
 import { AppComponent } from './app.component';
 import { StoreModule } from '@ngrx/store';
 import { EffectsModule } from '@ngrx/effects';
-import { StockEffects } from './stock.effects';
+// import { StockEffects } from './stock.effects';
+import { stocksReducer } from './state/stock.reducer';
+import { collectionReducer } from './state/collection.reducer';
 // import { simulatePriceChange } from './stock.reducer';
 
 @NgModule({
@@ -16,8 +18,8 @@ import { StockEffects } from './stock.effects';
     BrowserModule,
     HttpClientModule,
     AgGridModule,
-    EffectsModule.forRoot([StockEffects]),
-    StoreModule.forRoot({/* stock: simulatePriceChange */ }, {})
+    // EffectsModule.forRoot([StockEffects]),
+    StoreModule.forRoot({ stocks: stocksReducer, collection: collectionReducer }, {})
   ],
   providers: [],
   bootstrap: [AppComponent]
