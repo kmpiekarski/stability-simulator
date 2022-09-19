@@ -1,1002 +1,202 @@
 [
-  {
-    "id": "631c0603efa47fddaaffb9a4",
-    "priceHigh":1937.04,
-    "priceLow":980.68
-  },
-  {
-    "id": "631c060317dc313ac672a8d9",
-    "priceHigh":1715.12,
-    "priceLow":905.16
-  },
-  {
-    "id": "631c060387736aab68db8c87",
-    "priceHigh":1363.11,
-    "priceLow":178.83
-  },
-  {
-    "id": "631c060323ccb028ac614324",
-    "priceHigh":1354.27,
-    "priceLow":457.10
-  },
-  {
-    "id": "631c0603be36245839098cb8",
-    "priceHigh":1657.68,
-    "priceLow":668.40
-  },
-  {
-    "id": "631c0603a22082cc3c7d3acc",
-    "priceHigh":1014.43,
-    "priceLow":338.33
-  },
-  {
-    "id": "631c0603a7acac43212b98c2",
-    "priceHigh":1133.43,
-    "priceLow":377.27
-  },
-  {
-    "id": "631c0603181f7ce6f27f2de9",
-    "priceHigh":1409.86,
-    "priceLow":631.58
-  },
-  {
-    "id": "631c0603e1d03303e2d8536e",
-    "priceHigh":1973.63,
-    "priceLow":657.62
-  },
-  {
-    "id": "631c060308f58685c4f1334e",
-    "priceHigh":1624.43,
-    "priceLow":127.21
-  },
-  {
-    "id": "631c060387f389a8eca37224",
-    "priceHigh":1304.45,
-    "priceLow":142.46
-  },
-  {
-    "id": "631c06032bc29f8d8da0c620",
-    "priceHigh":1080.69,
-    "priceLow":242.33
-  },
-  {
-    "id": "631c06032e51c0f03a59f739",
-    "priceHigh":1040.10,
-    "priceLow":49.07
-  },
-  {
-    "id": "631c0603765b410b7f607319",
-    "priceHigh":1328.76,
-    "priceLow":622.78
-  },
-  {
-    "id": "631c0603742ba10bfd0bd8a1",
-    "priceHigh":1126.48,
-    "priceLow":834.65
-  },
-  {
-    "id": "631c060342cfb77fc724232d",
-    "priceHigh":1534.74,
-    "priceLow":930.59
-  },
-  {
-    "id": "631c0603714904dce9aed5ba",
-    "priceHigh":1695.07,
-    "priceLow":827.31
-  },
-  {
-    "id": "631c06038dc363bbfe5dbfe4",
-    "priceHigh":1264.11,
-    "priceLow":583.70
-  },
-  {
-    "id": "631c06038d6c3b2d58775903",
-    "priceHigh":1917.27,
-    "priceLow":706.61
-  },
-  {
-    "id": "631c0603036f6045d8c43aed",
-    "priceHigh":1688.30,
-    "priceLow":206.94
-  },
-  {
-    "id": "631c0603a961449cd5d5fc03",
-    "priceHigh":1594.51,
-    "priceLow":576.37
-  },
-  {
-    "id": "631c0603495461848867f4f9",
-    "priceHigh":1129.35,
-    "priceLow":163.18
-  },
-  {
-    "id": "631c06033683ac06b4261364",
-    "priceHigh":1104.49,
-    "priceLow":227.80
-  },
-  {
-    "id": "631c060336278dda04c64cd5",
-    "priceHigh":1661.70,
-    "priceLow":154.36
-  },
-  {
-    "id": "631c0603c2565cb1293d4e1a",
-    "priceHigh":1048.76,
-    "priceLow":966.28
-  },
-  {
-    "id": "631c0603a88d9271b8ad19cb",
-    "priceHigh":1975.04,
-    "priceLow":892.83
-  },
-  {
-    "id": "631c0603460c9213bb3716f8",
-    "priceHigh":1930.99,
-    "priceLow":790.96
-  },
-  {
-    "id": "631c0603c41eb5c4c28567d0",
-    "priceHigh":1860.32,
-    "priceLow":471.10
-  },
-  {
-    "id": "631c06039d1bd1314f73d617",
-    "priceHigh":1450.51,
-    "priceLow":713.06
-  },
-  {
-    "id": "631c06031c33ceb7f5156283",
-    "priceHigh":1107.39,
-    "priceLow":744.53
-  },
-  {
-    "id": "631c0603fb7327827672d814",
-    "priceHigh":1479.11,
-    "priceLow":723.54
-  },
-  {
-    "id": "631c0603007db8d1e6c178fb",
-    "priceHigh":1394.27,
-    "priceLow":278.75
-  },
-  {
-    "id": "631c0603b13e7267342b260c",
-    "priceHigh":1074.12,
-    "priceLow":136.70
-  },
-  {
-    "id": "631c06036a8474c6ffa48841",
-    "priceHigh":1605.10,
-    "priceLow":460.95
-  },
-  {
-    "id": "631c060375a6f450cf19745b",
-    "priceHigh":1853.16,
-    "priceLow":719.20
-  },
-  {
-    "id": "631c0603224503cedb958f13",
-    "priceHigh":1741.81,
-    "priceLow":806.61
-  },
-  {
-    "id": "631c060394343019da18267f",
-    "priceHigh":1492.41,
-    "priceLow":915.50
-  },
-  {
-    "id": "631c060308dd5a5a88f43885",
-    "priceHigh":1657.54,
-    "priceLow":77.09
-  },
-  {
-    "id": "631c06039d7426265f6a2127",
-    "priceHigh":1706.97,
-    "priceLow":303.73
-  },
-  {
-    "id": "631c06030fb9b25b8885cfe6",
-    "priceHigh":1762.51,
-    "priceLow":186.78
-  },
-  {
-    "id": "631c0603da4fca5b130ab45d",
-    "priceHigh":1072.99,
-    "priceLow":592.58
-  },
-  {
-    "id": "631c0603acaaaad0bd812492",
-    "priceHigh":1278.50,
-    "priceLow":266.52
-  },
-  {
-    "id": "631c0603963a41e84e77cb4a",
-    "priceHigh":1278.90,
-    "priceLow":730.28
-  },
-  {
-    "id": "631c06039faf772d87896e83",
-    "priceHigh":1966.01,
-    "priceLow":253.76
-  },
-  {
-    "id": "631c0603d2d9fee5c4371b16",
-    "priceHigh":1476.30,
-    "priceLow":691.92
-  },
-  {
-    "id": "631c06033368dbaedd88b51f",
-    "priceHigh":1957.93,
-    "priceLow":176.06
-  },
-  {
-    "id": "631c0603a1164b60bccbc26f",
-    "priceHigh":1430.57,
-    "priceLow":165.97
-  },
-  {
-    "id": "631c06036050622bd5aa2419",
-    "priceHigh":1995.16,
-    "priceLow":306.00
-  },
-  {
-    "id": "631c06031b21b0e39f4f0732",
-    "priceHigh":1556.83,
-    "priceLow":332.55
-  },
-  {
-    "id": "631c0603717665c39f1b366c",
-    "priceHigh":1740.62,
-    "priceLow":772.04
-  },
-  {
-    "id": "631c0603fccc67dbc408a11d",
-    "priceHigh":1749.51,
-    "priceLow":814.22
-  },
-  {
-    "id": "631c0603072847700336d638",
-    "priceHigh":1913.28,
-    "priceLow":608.53
-  },
-  {
-    "id": "631c0603dbdf0a2f2aa46ff0",
-    "priceHigh":1291.89,
-    "priceLow":723.14
-  },
-  {
-    "id": "631c0603864f5314c68a5409",
-    "priceHigh":1921.60,
-    "priceLow":438.88
-  },
-  {
-    "id": "631c0603d08bbea34049cd00",
-    "priceHigh":1749.70,
-    "priceLow":388.18
-  },
-  {
-    "id": "631c0603b009420d58e12285",
-    "priceHigh":1035.32,
-    "priceLow":819.02
-  },
-  {
-    "id": "631c0603879ee62eb18e5950",
-    "priceHigh":1086.16,
-    "priceLow":908.42
-  },
-  {
-    "id": "631c06035a32ea8f71ea4e25",
-    "priceHigh":1215.38,
-    "priceLow":949.69
-  },
-  {
-    "id": "631c06030a2cb18e148f7fee",
-    "priceHigh":1017.07,
-    "priceLow":679.40
-  },
-  {
-    "id": "631c06037db5bc161b835beb",
-    "priceHigh":1123.27,
-    "priceLow":647.22
-  },
-  {
-    "id": "631c06032bd0bdfd74e86461",
-    "priceHigh":1652.01,
-    "priceLow":277.69
-  },
-  {
-    "id": "631c06034a1ab08ed5761cd4",
-    "priceHigh":1836.67,
-    "priceLow":409.66
-  },
-  {
-    "id": "631c0603fb0850f05c41de95",
-    "priceHigh":1435.39,
-    "priceLow":547.80
-  },
-  {
-    "id": "631c060318f28145a680334e",
-    "priceHigh":1387.80,
-    "priceLow":426.32
-  },
-  {
-    "id": "631c0603d515df8b8785f65d",
-    "priceHigh":1910.70,
-    "priceLow":146.82
-  },
-  {
-    "id": "631c0603cdee5b900b0667ee",
-    "priceHigh":1646.72,
-    "priceLow":239.73
-  },
-  {
-    "id": "631c0603763d71d70abdf1ce",
-    "priceHigh":1139.16,
-    "priceLow":29.00
-  },
-  {
-    "id": "631c0603196c1b21bb8cea36",
-    "priceHigh":1551.79,
-    "priceLow":571.59
-  },
-  {
-    "id": "631c06030217723a5b0b273c",
-    "priceHigh":1164.40,
-    "priceLow":823.62
-  },
-  {
-    "id": "631c06038ef60e90239d4b66",
-    "priceHigh":1713.35,
-    "priceLow":343.19
-  },
-  {
-    "id": "631c06037e106783fff21d71",
-    "priceHigh":1498.97,
-    "priceLow":722.49
-  },
-  {
-    "id": "631c060352441a5fe3eb64e4",
-    "priceHigh":1283.03,
-    "priceLow":622.74
-  },
-  {
-    "id": "631c060394930996cb80fb00",
-    "priceHigh":1149.47,
-    "priceLow":830.28
-  },
-  {
-    "id": "631c06032686373160b919f7",
-    "priceHigh":1629.73,
-    "priceLow":858.11
-  },
-  {
-    "id": "631c060335aee386890f433e",
-    "priceHigh":1640.19,
-    "priceLow":650.58
-  },
-  {
-    "id": "631c0603e0a66ab0e41cca9d",
-    "priceHigh":1640.15,
-    "priceLow":934.35
-  },
-  {
-    "id": "631c0603337ec39468281574",
-    "priceHigh":1777.73,
-    "priceLow":657.68
-  },
-  {
-    "id": "631c06035d034ed789d625f7",
-    "priceHigh":1731.95,
-    "priceLow":650.69
-  },
-  {
-    "id": "631c06032e9e3781d04cff02",
-    "priceHigh":1890.50,
-    "priceLow":923.66
-  },
-  {
-    "id": "631c06035f694676e11f12a6",
-    "priceHigh":1531.40,
-    "priceLow":331.29
-  },
-  {
-    "id": "631c06039ffe42b180e44b48",
-    "priceHigh":1084.28,
-    "priceLow":192.39
-  },
-  {
-    "id": "631c060322b7a397bf3afd28",
-    "priceHigh":1988.20,
-    "priceLow":497.57
-  },
-  {
-    "id": "631c0603049f26c1daeceb92",
-    "priceHigh":1649.57,
-    "priceLow":117.75
-  },
-  {
-    "id": "631c060319f07266aa603bee",
-    "priceHigh":1429.94,
-    "priceLow":314.04
-  },
-  {
-    "id": "631c0603a35b21d43ee9c763",
-    "priceHigh":1476.33,
-    "priceLow":9.95
-  },
-  {
-    "id": "631c060345ee3001dc0af471",
-    "priceHigh":1905.98,
-    "priceLow":414.46
-  },
-  {
-    "id": "631c0603fcbf6ce06d5771ae",
-    "priceHigh":1805.39,
-    "priceLow":946.18
-  },
-  {
-    "id": "631c0603ec95cb241672a857",
-    "priceHigh":1575.77,
-    "priceLow":766.00
-  },
-  {
-    "id": "631c0603d974a1b45c1c4cf2",
-    "priceHigh":1008.39,
-    "priceLow":292.23
-  },
-  {
-    "id": "631c06035b120e3cbb67b39e",
-    "priceHigh":1535.02,
-    "priceLow":775.86
-  },
-  {
-    "id": "631c060310db1bd958dadb32",
-    "priceHigh":1759.85,
-    "priceLow":165.50
-  },
-  {
-    "id": "631c0603f970909e689dd387",
-    "priceHigh":1436.83,
-    "priceLow":318.16
-  },
-  {
-    "id": "631c0603301c89ed4104ef86",
-    "priceHigh":1889.05,
-    "priceLow":192.64
-  },
-  {
-    "id": "631c06030d869ea1e3f4e18d",
-    "priceHigh":1951.37,
-    "priceLow":395.98
-  },
-  {
-    "id": "631c0603e84e00ed5b7a1de4",
-    "priceHigh":1498.37,
-    "priceLow":299.26
-  },
-  {
-    "id": "631c0603f38a16fbc11ad205",
-    "priceHigh":1439.48,
-    "priceLow":340.30
-  },
-  {
-    "id": "631c0603832ed1ab7126e8e7",
-    "priceHigh":1294.64,
-    "priceLow":253.52
-  },
-  {
-    "id": "631c060332da8a4179504462",
-    "priceHigh":1359.97,
-    "priceLow":105.13
-  },
-  {
-    "id": "631c06033a07435a7dc2de63",
-    "priceHigh":1834.96,
-    "priceLow":688.29
-  },
-  {
-    "id": "631c060319b04020616f0f2f",
-    "priceHigh":1181.27,
-    "priceLow":710.54
-  },
-  {
-    "id": "631c06039e13cde8eb841ad1",
-    "priceHigh":1079.95,
-    "priceLow":687.59
-  },
-  {
-    "id": "631c06030ca7b33446c24b45",
-    "priceHigh":1659.79,
-    "priceLow":19.40
-  },
-  {
-    "id": "631c0603424c69d922011376",
-    "priceHigh":1658.08,
-    "priceLow":407.77
-  },
-  {
-    "id": "631c0603fa0920537589c3ac",
-    "priceHigh":1499.96,
-    "priceLow":793.00
-  },
-  {
-    "id": "631c0603b75ddfc080a9b331",
-    "priceHigh":1577.89,
-    "priceLow":140.47
-  },
-  {
-    "id": "631c0603b5e6b316dec38616",
-    "priceHigh":1330.58,
-    "priceLow":949.00
-  },
-  {
-    "id": "631c060386495642f2ad656e",
-    "priceHigh":1088.37,
-    "priceLow":522.16
-  },
-  {
-    "id": "631c06033cf5cd18a27ec6a1",
-    "priceHigh":1853.40,
-    "priceLow":649.74
-  },
-  {
-    "id": "631c0603271d9ee8ba55f1a4",
-    "priceHigh":1867.53,
-    "priceLow":245.91
-  },
-  {
-    "id": "631c0603044aba1b335188a1",
-    "priceHigh":1531.41,
-    "priceLow":85.21
-  },
-  {
-    "id": "631c06038199a9ac550e54d2",
-    "priceHigh":1793.40,
-    "priceLow":535.44
-  },
-  {
-    "id": "631c06030bc4fb0657d143e7",
-    "priceHigh":1813.21,
-    "priceLow":698.43
-  },
-  {
-    "id": "631c060372bdd1c764d0c65f",
-    "priceHigh":1299.05,
-    "priceLow":122.39
-  },
-  {
-    "id": "631c060315ba6fd0c9c78412",
-    "priceHigh":1399.68,
-    "priceLow":285.74
-  },
-  {
-    "id": "631c06036eab44e4df3b7075",
-    "priceHigh":1760.78,
-    "priceLow":549.13
-  },
-  {
-    "id": "631c0603bb66e869d317b720",
-    "priceHigh":1669.09,
-    "priceLow":946.33
-  },
-  {
-    "id": "631c0603b03c5ff2ab406555",
-    "priceHigh":1931.36,
-    "priceLow":36.90
-  },
-  {
-    "id": "631c0603b76a86415120530e",
-    "priceHigh":1298.16,
-    "priceLow":943.30
-  },
-  {
-    "id": "631c06035d51c02f7a1e4292",
-    "priceHigh":1242.05,
-    "priceLow":354.31
-  },
-  {
-    "id": "631c06038299c15eb61f384e",
-    "priceHigh":1259.90,
-    "priceLow":705.48
-  },
-  {
-    "id": "631c0603d6eb8ffb022c34f8",
-    "priceHigh":1643.45,
-    "priceLow":126.80
-  },
-  {
-    "id": "631c060337812d97e95fefb4",
-    "priceHigh":1177.26,
-    "priceLow":977.28
-  },
-  {
-    "id": "631c0603086f08b97ce82d6d",
-    "priceHigh":1606.39,
-    "priceLow":810.76
-  },
-  {
-    "id": "631c06036f6a71743ce30168",
-    "priceHigh":1436.11,
-    "priceLow":561.17
-  },
-  {
-    "id": "631c0603f9f932828c16c32d",
-    "priceHigh":1465.79,
-    "priceLow":243.95
-  },
-  {
-    "id": "631c060325986099b7339b0d",
-    "priceHigh":1511.87,
-    "priceLow":26.19
-  },
-  {
-    "id": "631c06032a71a2c2a12b9fa2",
-    "priceHigh":1223.33,
-    "priceLow":920.84
-  },
-  {
-    "id": "631c0603dfe0752c28406286",
-    "priceHigh":1461.89,
-    "priceLow":137.26
-  },
-  {
-    "id": "631c0603fc7d419b51f0392a",
-    "priceHigh":1525.42,
-    "priceLow":559.56
-  },
-  {
-    "id": "631c06039d297328b95e0b4b",
-    "priceHigh":1578.80,
-    "priceLow":590.81
-  },
-  {
-    "id": "631c060372b254aace011eb6",
-    "priceHigh":1720.01,
-    "priceLow":711.83
-  },
-  {
-    "id": "631c0603cfcc8432f27f738b",
-    "priceHigh":1391.80,
-    "priceLow":346.33
-  },
-  {
-    "id": "631c060379a4e154ab8e6078",
-    "priceHigh":1255.29,
-    "priceLow":895.53
-  },
-  {
-    "id": "631c060385bffacd07ee15f5",
-    "priceHigh":1463.90,
-    "priceLow":252.37
-  },
-  {
-    "id": "631c0603d8ec0e47d17160c0",
-    "priceHigh":1305.09,
-    "priceLow":523.84
-  },
-  {
-    "id": "631c06035c87bb3d925430a2",
-    "priceHigh":1548.24,
-    "priceLow":590.42
-  },
-  {
-    "id": "631c060346eebd16aef4848b",
-    "priceHigh":1317.78,
-    "priceLow":902.04
-  },
-  {
-    "id": "631c06036b92dd116d62a529",
-    "priceHigh":1533.82,
-    "priceLow":835.28
-  },
-  {
-    "id": "631c0603df3532fd0e67d751",
-    "priceHigh":1453.62,
-    "priceLow":44.92
-  },
-  {
-    "id": "631c0603f7321b808807584b",
-    "priceHigh":1750.86,
-    "priceLow":284.18
-  },
-  {
-    "id": "631c0603e0ed2692cb20ab3f",
-    "priceHigh":1647.02,
-    "priceLow":264.18
-  },
-  {
-    "id": "631c060321da9346d1c47bda",
-    "priceHigh":1236.81,
-    "priceLow":44.98
-  },
-  {
-    "id": "631c060372bd44cd6c509f93",
-    "priceHigh":1529.71,
-    "priceLow":9.61
-  },
-  {
-    "id": "631c0603d66d2eebc251515b",
-    "priceHigh":1826.54,
-    "priceLow":388.55
-  },
-  {
-    "id": "631c06032ecd7d621abe8f06",
-    "priceHigh":1958.07,
-    "priceLow":351.35
-  },
-  {
-    "id": "631c06031bb52e076856f42b",
-    "priceHigh":1737.87,
-    "priceLow":175.60
-  },
-  {
-    "id": "631c0603564a13c3004829d8",
-    "priceHigh":1046.21,
-    "priceLow":234.15
-  },
-  {
-    "id": "631c0603e585c12b9fd4a467",
-    "priceHigh":1912.31,
-    "priceLow":621.77
-  },
-  {
-    "id": "631c06033607cabcdee025dd",
-    "priceHigh":1798.15,
-    "priceLow":59.19
-  },
-  {
-    "id": "631c0603bc7cf0cca5662731",
-    "priceHigh":1995.11,
-    "priceLow":215.17
-  },
-  {
-    "id": "631c060376903ab794642a8b",
-    "priceHigh":1305.82,
-    "priceLow":358.07
-  },
-  {
-    "id": "631c0603b96521aa7f883767",
-    "priceHigh":1634.07,
-    "priceLow":440.99
-  },
-  {
-    "id": "631c0603821d8d4873b71e77",
-    "priceHigh":1859.51,
-    "priceLow":586.46
-  },
-  {
-    "id": "631c06038864819407bf4451",
-    "priceHigh":1006.96,
-    "priceLow":947.54
-  },
-  {
-    "id": "631c06031f761fbaefe326f4",
-    "priceHigh":1946.20,
-    "priceLow":600.60
-  },
-  {
-    "id": "631c060337301f7c960f8eff",
-    "priceHigh":1701.60,
-    "priceLow":612.32
-  },
-  {
-    "id": "631c06036742d594b479af96",
-    "priceHigh":1366.60,
-    "priceLow":479.16
-  },
-  {
-    "id": "631c06033321500e580fe7b7",
-    "priceHigh":1031.51,
-    "priceLow":426.11
-  },
-  {
-    "id": "631c0603b22d9a7fc136f2a3",
-    "priceHigh":1249.97,
-    "priceLow":243.08
-  },
-  {
-    "id": "631c0603cff342bc2c186f8f",
-    "priceHigh":1743.27,
-    "priceLow":264.44
-  },
-  {
-    "id": "631c0603363c47862f7b8996",
-    "priceHigh":1330.58,
-    "priceLow":974.01
-  },
-  {
-    "id": "631c06031fa083d824565dc9",
-    "priceHigh":1808.78,
-    "priceLow":25.81
-  },
-  {
-    "id": "631c06039f79aad36b04c529",
-    "priceHigh":1243.92,
-    "priceLow":494.19
-  },
-  {
-    "id": "631c0603c65d2e94372a45a3",
-    "priceHigh":1104.57,
-    "priceLow":39.53
-  },
-  {
-    "id": "631c06031fb8a063f1e0e248",
-    "priceHigh":1629.68,
-    "priceLow":155.42
-  },
-  {
-    "id": "631c060345567d9c46b59ef2",
-    "priceHigh":1599.04,
-    "priceLow":972.71
-  },
-  {
-    "id": "631c0603f9358a24d3d53630",
-    "priceHigh":1207.79,
-    "priceLow":367.49
-  },
-  {
-    "id": "631c060335ee95f701d8b14e",
-    "priceHigh":1841.94,
-    "priceLow":288.76
-  },
-  {
-    "id": "631c0603bad3d04d5a9db175",
-    "priceHigh":1932.90,
-    "priceLow":698.96
-  },
-  {
-    "id": "631c060347a9d632d8bfe566",
-    "priceHigh":1769.49,
-    "priceLow":400.69
-  },
-  {
-    "id": "631c06038f4a07803dc16c06",
-    "priceHigh":1353.79,
-    "priceLow":533.31
-  },
-  {
-    "id": "631c0603ea40c523a4a0d00c",
-    "priceHigh":1568.60,
-    "priceLow":776.36
-  },
-  {
-    "id": "631c06036be3150a7033ae28",
-    "priceHigh":1923.43,
-    "priceLow":211.92
-  },
-  {
-    "id": "631c06038b0d13d59b9ca90b",
-    "priceHigh":1584.35,
-    "priceLow":210.03
-  },
-  {
-    "id": "631c0603cc2275b180406a89",
-    "priceHigh":1778.63,
-    "priceLow":645.88
-  },
-  {
-    "id": "631c060395183be981dafb36",
-    "priceHigh":1779.22,
-    "priceLow":988.76
-  },
-  {
-    "id": "631c060342417d12ae68f27f",
-    "priceHigh":1457.05,
-    "priceLow":705.10
-  },
-  {
-    "id": "631c06032f8b1590ef4a51c4",
-    "priceHigh":1247.53,
-    "priceLow":683.08
-  },
-  {
-    "id": "631c0603f726f95cc8bcc3a3",
-    "priceHigh":1362.01,
-    "priceLow":249.43
-  },
-  {
-    "id": "631c0603acbb4feaf236e79a",
-    "priceHigh":1807.11,
-    "priceLow":915.56
-  },
-  {
-    "id": "631c0603b0dad68a06c992d7",
-    "priceHigh":1243.03,
-    "priceLow":734.58
-  },
-  {
-    "id": "631c0603d949ef58ddd94c7e",
-    "priceHigh":1681.73,
-    "priceLow":111.75
-  },
-  {
-    "id": "631c060389503f2c85eb2a9e",
-    "priceHigh":1098.63,
-    "priceLow":491.08
-  },
-  {
-    "id": "631c06037e9939c85df1f225",
-    "priceHigh":1422.23,
-    "priceLow":363.60
-  },
-  {
-    "id": "631c0603aaaeb99565d9f4b7",
-    "priceHigh":1319.44,
-    "priceLow":627.92
-  },
-  {
-    "id": "631c0603a87fe3a558377e5a",
-    "priceHigh":1862.08,
-    "priceLow":341.61
-  },
-  {
-    "id": "631c06032c8c87310ccf989d",
-    "priceHigh":1095.40,
-    "priceLow":309.53
-  },
-  {
-    "id": "631c0603affa414bea576693",
-    "priceHigh":1410.84,
-    "priceLow":914.66
-  },
-  {
-    "id": "631c06039dfb16191cb5dc67",
-    "priceHigh":1742.74,
-    "priceLow":844.19
-  },
-  {
-    "id": "631c060322ce612cb8a99ffb",
-    "priceHigh":1775.35,
-    "priceLow":542.86
-  },
-  {
-    "id": "631c0603b10a8618fdd13b39",
-    "priceHigh":1592.07,
-    "priceLow":665.47
-  },
-  {
-    "id": "631c06033fa9d275513c0382",
-    "priceHigh":1887.28,
-    "priceLow":745.51
-  },
-  {
-    "id": "631c06036b8cc2edeaff641a",
-    "priceHigh":1272.58,
-    "priceLow":270.06
-  },
-  {
-    "id": "631c0603b858f51672972b15",
-    "priceHigh":1146.96,
-    "priceLow":29.70
-  },
-  {
-    "id": "631c060318ff97a647872b00",
-    "priceHigh":1400.48,
-    "priceLow":965.12
-  },
-  {
-    "id": "631c0603c14c58847f0f41c7",
-    "priceHigh":1630.24,
-    "priceLow":907.76
-  },
-  {
-    "id": "631c0603541a7798b0d6ff11",
-    "priceHigh":1517.37,
-    "priceLow":225.78
-  },
-  {
-    "id": "631c0603082cf718ea82242a",
-    "priceHigh":1554.08,
-    "priceLow":719.83
-  },
-  {
-    "id": "631c0603b4871a0ecb55c568",
-    "priceHigh":1691.69,
-    "priceLow":852.62
-  },
-  {
-    "id": "631c0603765526ff97120531",
-    "priceHigh":1589.75,
-    "priceLow":843.59
-  }
+  {"id": "631c0603efa47fddaaffb9a4","priceHigh":1937.04,"priceLow":980.68},
+  {"id": "631c060317dc313ac672a8d9","priceHigh":1715.12,"priceLow":905.16},
+  {"id": "631c060387736aab68db8c87","priceHigh":1363.11,"priceLow":178.83},
+  {"id": "631c060323ccb028ac614324","priceHigh":1354.27,"priceLow":457.10},
+  {"id": "631c0603be36245839098cb8","priceHigh":1657.68,"priceLow":668.40},
+  {"id": "631c0603a22082cc3c7d3acc","priceHigh":1014.43,"priceLow":338.33},
+  {"id": "631c0603a7acac43212b98c2","priceHigh":1133.43,"priceLow":377.27},
+  {"id": "631c0603181f7ce6f27f2de9","priceHigh":1409.86,"priceLow":631.58},
+  {"id": "631c0603e1d03303e2d8536e","priceHigh":1973.63,"priceLow":657.62},
+  {"id": "631c060308f58685c4f1334e","priceHigh":1624.43,"priceLow":127.21},
+  {"id": "631c060387f389a8eca37224","priceHigh":1304.45,"priceLow":142.46},
+  {"id": "631c06032bc29f8d8da0c620","priceHigh":1080.69,"priceLow":242.33},
+  {"id": "631c06032e51c0f03a59f739","priceHigh":1040.10,"priceLow":49.07},
+  {"id": "631c0603765b410b7f607319","priceHigh":1328.76,"priceLow":622.78},
+  {"id": "631c0603742ba10bfd0bd8a1","priceHigh":1126.48,"priceLow":834.65},
+  {"id": "631c060342cfb77fc724232d","priceHigh":1534.74,"priceLow":930.59},
+  {"id": "631c0603714904dce9aed5ba","priceHigh":1695.07,"priceLow":827.31},
+  {"id": "631c06038dc363bbfe5dbfe4","priceHigh":1264.11,"priceLow":583.70},
+  {"id": "631c06038d6c3b2d58775903","priceHigh":1917.27,"priceLow":706.61},
+  {"id": "631c0603036f6045d8c43aed","priceHigh":1688.30,"priceLow":206.94},
+  {"id": "631c0603a961449cd5d5fc03","priceHigh":1594.51,"priceLow":576.37},
+  {"id": "631c0603495461848867f4f9","priceHigh":1129.35,"priceLow":163.18},
+  {"id": "631c06033683ac06b4261364","priceHigh":1104.49,"priceLow":227.80},
+  {"id": "631c060336278dda04c64cd5","priceHigh":1661.70,"priceLow":154.36},
+  {"id": "631c0603c2565cb1293d4e1a","priceHigh":1048.76,"priceLow":966.28},
+  {"id": "631c0603a88d9271b8ad19cb","priceHigh":1975.04,"priceLow":892.83},
+  {"id": "631c0603460c9213bb3716f8","priceHigh":1930.99,"priceLow":790.96},
+  {"id": "631c0603c41eb5c4c28567d0","priceHigh":1860.32,"priceLow":471.10},
+  {"id": "631c06039d1bd1314f73d617","priceHigh":1450.51,"priceLow":713.06},
+  {"id": "631c06031c33ceb7f5156283","priceHigh":1107.39,"priceLow":744.53},
+  {"id": "631c0603fb7327827672d814","priceHigh":1479.11,"priceLow":723.54},
+  {"id": "631c0603007db8d1e6c178fb","priceHigh":1394.27,"priceLow":278.75},
+  {"id": "631c0603b13e7267342b260c","priceHigh":1074.12,"priceLow":136.70},
+  {"id": "631c06036a8474c6ffa48841","priceHigh":1605.10,"priceLow":460.95},
+  {"id": "631c060375a6f450cf19745b","priceHigh":1853.16,"priceLow":719.20},
+  {"id": "631c0603224503cedb958f13","priceHigh":1741.81,"priceLow":806.61},
+  {"id": "631c060394343019da18267f","priceHigh":1492.41,"priceLow":915.50},
+  {"id": "631c060308dd5a5a88f43885","priceHigh":1657.54,"priceLow":77.09},
+  {"id": "631c06039d7426265f6a2127","priceHigh":1706.97,"priceLow":303.73},
+  {"id": "631c06030fb9b25b8885cfe6","priceHigh":1762.51,"priceLow":186.78},
+  {"id": "631c0603da4fca5b130ab45d","priceHigh":1072.99,"priceLow":592.58},
+  {"id": "631c0603acaaaad0bd812492","priceHigh":1278.50,"priceLow":266.52},
+  {"id": "631c0603963a41e84e77cb4a","priceHigh":1278.90,"priceLow":730.28},
+  {"id": "631c06039faf772d87896e83","priceHigh":1966.01,"priceLow":253.76},
+  {"id": "631c0603d2d9fee5c4371b16","priceHigh":1476.30,"priceLow":691.92},
+  {"id": "631c06033368dbaedd88b51f","priceHigh":1957.93,"priceLow":176.06},
+  {"id": "631c0603a1164b60bccbc26f","priceHigh":1430.57,"priceLow":165.97},
+  {"id": "631c06036050622bd5aa2419","priceHigh":1995.16,"priceLow":306.00},
+  {"id": "631c06031b21b0e39f4f0732","priceHigh":1556.83,"priceLow":332.55},
+  {"id": "631c0603717665c39f1b366c","priceHigh":1740.62,"priceLow":772.04},
+  {"id": "631c0603fccc67dbc408a11d","priceHigh":1749.51,"priceLow":814.22},
+  {"id": "631c0603072847700336d638","priceHigh":1913.28,"priceLow":608.53},
+  {"id": "631c0603dbdf0a2f2aa46ff0","priceHigh":1291.89,"priceLow":723.14},
+  {"id": "631c0603864f5314c68a5409","priceHigh":1921.60,"priceLow":438.88},
+  {"id": "631c0603d08bbea34049cd00","priceHigh":1749.70,"priceLow":388.18},
+  {"id": "631c0603b009420d58e12285","priceHigh":1035.32,"priceLow":819.02},
+  {"id": "631c0603879ee62eb18e5950","priceHigh":1086.16,"priceLow":908.42},
+  {"id": "631c06035a32ea8f71ea4e25","priceHigh":1215.38,"priceLow":949.69},
+  {"id": "631c06030a2cb18e148f7fee","priceHigh":1017.07,"priceLow":679.40},
+  {"id": "631c06037db5bc161b835beb","priceHigh":1123.27,"priceLow":647.22},
+  {"id": "631c06032bd0bdfd74e86461","priceHigh":1652.01,"priceLow":277.69},
+  {"id": "631c06034a1ab08ed5761cd4","priceHigh":1836.67,"priceLow":409.66},
+  {"id": "631c0603fb0850f05c41de95","priceHigh":1435.39,"priceLow":547.80},
+  {"id": "631c060318f28145a680334e","priceHigh":1387.80,"priceLow":426.32},
+  {"id": "631c0603d515df8b8785f65d","priceHigh":1910.70,"priceLow":146.82},
+  {"id": "631c0603cdee5b900b0667ee","priceHigh":1646.72,"priceLow":239.73},
+  {"id": "631c0603763d71d70abdf1ce","priceHigh":1139.16,"priceLow":29.00},
+  {"id": "631c0603196c1b21bb8cea36","priceHigh":1551.79,"priceLow":571.59},
+  {"id": "631c06030217723a5b0b273c","priceHigh":1164.40,"priceLow":823.62},
+  {"id": "631c06038ef60e90239d4b66","priceHigh":1713.35,"priceLow":343.19},
+  {"id": "631c06037e106783fff21d71","priceHigh":1498.97,"priceLow":722.49},
+  {"id": "631c060352441a5fe3eb64e4","priceHigh":1283.03,"priceLow":622.74},
+  {"id": "631c060394930996cb80fb00","priceHigh":1149.47,"priceLow":830.28},
+  {"id": "631c06032686373160b919f7","priceHigh":1629.73,"priceLow":858.11},
+  {"id": "631c060335aee386890f433e","priceHigh":1640.19,"priceLow":650.58},
+  {"id": "631c0603e0a66ab0e41cca9d","priceHigh":1640.15,"priceLow":934.35},
+  {"id": "631c0603337ec39468281574","priceHigh":1777.73,"priceLow":657.68},
+  {"id": "631c06035d034ed789d625f7","priceHigh":1731.95,"priceLow":650.69},
+  {"id": "631c06032e9e3781d04cff02","priceHigh":1890.50,"priceLow":923.66},
+  {"id": "631c06035f694676e11f12a6","priceHigh":1531.40,"priceLow":331.29},
+  {"id": "631c06039ffe42b180e44b48","priceHigh":1084.28,"priceLow":192.39},
+  {"id": "631c060322b7a397bf3afd28","priceHigh":1988.20,"priceLow":497.57},
+  {"id": "631c0603049f26c1daeceb92","priceHigh":1649.57,"priceLow":117.75},
+  {"id": "631c060319f07266aa603bee","priceHigh":1429.94,"priceLow":314.04},
+  {"id": "631c0603a35b21d43ee9c763","priceHigh":1476.33,"priceLow":9.95},
+  {"id": "631c060345ee3001dc0af471","priceHigh":1905.98,"priceLow":414.46},
+  {"id": "631c0603fcbf6ce06d5771ae","priceHigh":1805.39,"priceLow":946.18},
+  {"id": "631c0603ec95cb241672a857","priceHigh":1575.77,"priceLow":766.00},
+  {"id": "631c0603d974a1b45c1c4cf2","priceHigh":1008.39,"priceLow":292.23},
+  {"id": "631c06035b120e3cbb67b39e","priceHigh":1535.02,"priceLow":775.86},
+  {"id": "631c060310db1bd958dadb32","priceHigh":1759.85,"priceLow":165.50},
+  {"id": "631c0603f970909e689dd387","priceHigh":1436.83,"priceLow":318.16},
+  {"id": "631c0603301c89ed4104ef86","priceHigh":1889.05,"priceLow":192.64},
+  {"id": "631c06030d869ea1e3f4e18d","priceHigh":1951.37,"priceLow":395.98},
+  {"id": "631c0603e84e00ed5b7a1de4","priceHigh":1498.37,"priceLow":299.26},
+  {"id": "631c0603f38a16fbc11ad205","priceHigh":1439.48,"priceLow":340.30},
+  {"id": "631c0603832ed1ab7126e8e7","priceHigh":1294.64,"priceLow":253.52},
+  {"id": "631c060332da8a4179504462","priceHigh":1359.97,"priceLow":105.13},
+  {"id": "631c06033a07435a7dc2de63","priceHigh":1834.96,"priceLow":688.29},
+  {"id": "631c060319b04020616f0f2f","priceHigh":1181.27,"priceLow":710.54},
+  {"id": "631c06039e13cde8eb841ad1","priceHigh":1079.95,"priceLow":687.59},
+  {"id": "631c06030ca7b33446c24b45","priceHigh":1659.79,"priceLow":19.40},
+  {"id": "631c0603424c69d922011376","priceHigh":1658.08,"priceLow":407.77},
+  {"id": "631c0603fa0920537589c3ac","priceHigh":1499.96,"priceLow":793.00},
+  {"id": "631c0603b75ddfc080a9b331","priceHigh":1577.89,"priceLow":140.47},
+  {"id": "631c0603b5e6b316dec38616","priceHigh":1330.58,"priceLow":949.00},
+  {"id": "631c060386495642f2ad656e","priceHigh":1088.37,"priceLow":522.16},
+  {"id": "631c06033cf5cd18a27ec6a1","priceHigh":1853.40,"priceLow":649.74},
+  {"id": "631c0603271d9ee8ba55f1a4","priceHigh":1867.53,"priceLow":245.91},
+  {"id": "631c0603044aba1b335188a1","priceHigh":1531.41,"priceLow":85.21},
+  {"id": "631c06038199a9ac550e54d2","priceHigh":1793.40,"priceLow":535.44},
+  {"id": "631c06030bc4fb0657d143e7","priceHigh":1813.21,"priceLow":698.43},
+  {"id": "631c060372bdd1c764d0c65f","priceHigh":1299.05,"priceLow":122.39},
+  {"id": "631c060315ba6fd0c9c78412","priceHigh":1399.68,"priceLow":285.74},
+  {"id": "631c06036eab44e4df3b7075","priceHigh":1760.78,"priceLow":549.13},
+  {"id": "631c0603bb66e869d317b720","priceHigh":1669.09,"priceLow":946.33},
+  {"id": "631c0603b03c5ff2ab406555","priceHigh":1931.36,"priceLow":36.90},
+  {"id": "631c0603b76a86415120530e","priceHigh":1298.16,"priceLow":943.30},
+  {"id": "631c06035d51c02f7a1e4292","priceHigh":1242.05,"priceLow":354.31},
+  {"id": "631c06038299c15eb61f384e","priceHigh":1259.90,"priceLow":705.48},
+  {"id": "631c0603d6eb8ffb022c34f8","priceHigh":1643.45,"priceLow":126.80},
+  {"id": "631c060337812d97e95fefb4","priceHigh":1177.26,"priceLow":977.28},
+  {"id": "631c0603086f08b97ce82d6d","priceHigh":1606.39,"priceLow":810.76},
+  {"id": "631c06036f6a71743ce30168","priceHigh":1436.11,"priceLow":561.17},
+  {"id": "631c0603f9f932828c16c32d","priceHigh":1465.79,"priceLow":243.95},
+  {"id": "631c060325986099b7339b0d","priceHigh":1511.87,"priceLow":26.19},
+  {"id": "631c06032a71a2c2a12b9fa2","priceHigh":1223.33,"priceLow":920.84},
+  {"id": "631c0603dfe0752c28406286","priceHigh":1461.89,"priceLow":137.26},
+  {"id": "631c0603fc7d419b51f0392a","priceHigh":1525.42,"priceLow":559.56},
+  {"id": "631c06039d297328b95e0b4b","priceHigh":1578.80,"priceLow":590.81},
+  {"id": "631c060372b254aace011eb6","priceHigh":1720.01,"priceLow":711.83},
+  {"id": "631c0603cfcc8432f27f738b","priceHigh":1391.80,"priceLow":346.33},
+  {"id": "631c060379a4e154ab8e6078","priceHigh":1255.29,"priceLow":895.53},
+  {"id": "631c060385bffacd07ee15f5","priceHigh":1463.90,"priceLow":252.37},
+  {"id": "631c0603d8ec0e47d17160c0","priceHigh":1305.09,"priceLow":523.84},
+  {"id": "631c06035c87bb3d925430a2","priceHigh":1548.24,"priceLow":590.42},
+  {"id": "631c060346eebd16aef4848b","priceHigh":1317.78,"priceLow":902.04},
+  {"id": "631c06036b92dd116d62a529","priceHigh":1533.82,"priceLow":835.28},
+  {"id": "631c0603df3532fd0e67d751","priceHigh":1453.62,"priceLow":44.92},
+  {"id": "631c0603f7321b808807584b","priceHigh":1750.86,"priceLow":284.18},
+  {"id": "631c0603e0ed2692cb20ab3f","priceHigh":1647.02,"priceLow":264.18},
+  {"id": "631c060321da9346d1c47bda","priceHigh":1236.81,"priceLow":44.98},
+  {"id": "631c060372bd44cd6c509f93","priceHigh":1529.71,"priceLow":9.61},
+  {"id": "631c0603d66d2eebc251515b","priceHigh":1826.54,"priceLow":388.55},
+  {"id": "631c06032ecd7d621abe8f06","priceHigh":1958.07,"priceLow":351.35},
+  {"id": "631c06031bb52e076856f42b","priceHigh":1737.87,"priceLow":175.60},
+  {"id": "631c0603564a13c3004829d8","priceHigh":1046.21,"priceLow":234.15},
+  {"id": "631c0603e585c12b9fd4a467","priceHigh":1912.31,"priceLow":621.77},
+  {"id": "631c06033607cabcdee025dd","priceHigh":1798.15,"priceLow":59.19},
+  {"id": "631c0603bc7cf0cca5662731","priceHigh":1995.11,"priceLow":215.17},
+  {"id": "631c060376903ab794642a8b","priceHigh":1305.82,"priceLow":358.07},
+  {"id": "631c0603b96521aa7f883767","priceHigh":1634.07,"priceLow":440.99},
+  {"id": "631c0603821d8d4873b71e77","priceHigh":1859.51,"priceLow":586.46},
+  {"id": "631c06038864819407bf4451","priceHigh":1006.96,"priceLow":947.54},
+  {"id": "631c06031f761fbaefe326f4","priceHigh":1946.20,"priceLow":600.60},
+  {"id": "631c060337301f7c960f8eff","priceHigh":1701.60,"priceLow":612.32},
+  {"id": "631c06036742d594b479af96","priceHigh":1366.60,"priceLow":479.16},
+  {"id": "631c06033321500e580fe7b7","priceHigh":1031.51,"priceLow":426.11},
+  {"id": "631c0603b22d9a7fc136f2a3","priceHigh":1249.97,"priceLow":243.08},
+  {"id": "631c0603cff342bc2c186f8f","priceHigh":1743.27,"priceLow":264.44},
+  {"id": "631c0603363c47862f7b8996","priceHigh":1330.58,"priceLow":974.01},
+  {"id": "631c06031fa083d824565dc9","priceHigh":1808.78,"priceLow":25.81},
+  {"id": "631c06039f79aad36b04c529","priceHigh":1243.92,"priceLow":494.19},
+  {"id": "631c0603c65d2e94372a45a3","priceHigh":1104.57,"priceLow":39.53},
+  {"id": "631c06031fb8a063f1e0e248","priceHigh":1629.68,"priceLow":155.42},
+  {"id": "631c060345567d9c46b59ef2","priceHigh":1599.04,"priceLow":972.71},
+  {"id": "631c0603f9358a24d3d53630","priceHigh":1207.79,"priceLow":367.49},
+  {"id": "631c060335ee95f701d8b14e","priceHigh":1841.94,"priceLow":288.76},
+  {"id": "631c0603bad3d04d5a9db175","priceHigh":1932.90,"priceLow":698.96},
+  {"id": "631c060347a9d632d8bfe566","priceHigh":1769.49,"priceLow":400.69},
+  {"id": "631c06038f4a07803dc16c06","priceHigh":1353.79,"priceLow":533.31},
+  {"id": "631c0603ea40c523a4a0d00c","priceHigh":1568.60,"priceLow":776.36},
+  {"id": "631c06036be3150a7033ae28","priceHigh":1923.43,"priceLow":211.92},
+  {"id": "631c06038b0d13d59b9ca90b","priceHigh":1584.35,"priceLow":210.03},
+  {"id": "631c0603cc2275b180406a89","priceHigh":1778.63,"priceLow":645.88},
+  {"id": "631c060395183be981dafb36","priceHigh":1779.22,"priceLow":988.76},
+  {"id": "631c060342417d12ae68f27f","priceHigh":1457.05,"priceLow":705.10},
+  {"id": "631c06032f8b1590ef4a51c4","priceHigh":1247.53,"priceLow":683.08},
+  {"id": "631c0603f726f95cc8bcc3a3","priceHigh":1362.01,"priceLow":249.43},
+  {"id": "631c0603acbb4feaf236e79a","priceHigh":1807.11,"priceLow":915.56},
+  {"id": "631c0603b0dad68a06c992d7","priceHigh":1243.03,"priceLow":734.58},
+  {"id": "631c0603d949ef58ddd94c7e","priceHigh":1681.73,"priceLow":111.75},
+  {"id": "631c060389503f2c85eb2a9e","priceHigh":1098.63,"priceLow":491.08},
+  {"id": "631c06037e9939c85df1f225","priceHigh":1422.23,"priceLow":363.60},
+  {"id": "631c0603aaaeb99565d9f4b7","priceHigh":1319.44,"priceLow":627.92},
+  {"id": "631c0603a87fe3a558377e5a","priceHigh":1862.08,"priceLow":341.61},
+  {"id": "631c06032c8c87310ccf989d","priceHigh":1095.40,"priceLow":309.53},
+  {"id": "631c0603affa414bea576693","priceHigh":1410.84,"priceLow":914.66},
+  {"id": "631c06039dfb16191cb5dc67","priceHigh":1742.74,"priceLow":844.19},
+  {"id": "631c060322ce612cb8a99ffb","priceHigh":1775.35,"priceLow":542.86},
+  {"id": "631c0603b10a8618fdd13b39","priceHigh":1592.07,"priceLow":665.47},
+  {"id": "631c06033fa9d275513c0382","priceHigh":1887.28,"priceLow":745.51},
+  {"id": "631c06036b8cc2edeaff641a","priceHigh":1272.58,"priceLow":270.06},
+  {"id": "631c0603b858f51672972b15","priceHigh":1146.96,"priceLow":29.70},
+  {"id": "631c060318ff97a647872b00","priceHigh":1400.48,"priceLow":965.12},
+  {"id": "631c0603c14c58847f0f41c7","priceHigh":1630.24,"priceLow":907.76},
+  {"id": "631c0603541a7798b0d6ff11","priceHigh":1517.37,"priceLow":225.78},
+  {"id": "631c0603082cf718ea82242a","priceHigh":1554.08,"priceLow":719.83},
+  {"id": "631c0603b4871a0ecb55c568","priceHigh":1691.69,"priceLow":852.62},
+  {"id": "631c0603765526ff97120531","priceHigh":1589.75,"priceLow":843.59}
 ]
